@@ -1,10 +1,16 @@
-# 简历
-resume
+# <center> Resume </center>
 
-# 
-## 计算机学院 - 软件工程
-## Tel:
-## 求职意向：php软件开发工程师/前端开发工程师.
-***
+### [My GitHub Pages](https://jianlilu.github.io/)
+
+>### https://jianlilu.github.io/
+
+### [Email](mailto:1210195656@qq.com)
+>### 1210195656@qq.com
+
+### [QQ]()
+>### 1210195656
+
+
+
 
 
