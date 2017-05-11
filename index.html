@@ -2,7 +2,8 @@
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<!--[if gt IE 8]><!--> 
+<html class="no-js"> <!--<![endif]-->
     <head>
 
 		<!-- 浏览器页签名字 -->
@@ -80,8 +81,10 @@
         <!-- Laoding page --> <!--加载页面时显示的进度圈-->
         <div id="preloader"><div id="spinner"></div></div>
 
-        <!-- .slideshow --> <!-- ???????? -->
-        <ul class="cb-slideshow" id="cb_slideshow" style="display:none">
+        <!-- .slideshow --> 
+		<!-- 背景图片显示：display:block -->
+		<!-- 默认不显示：display:none -->
+        <ul class="cb-slideshow" id="cb_slideshow" style="display:block">
             <li><span>Image 01</span><div></div></li>
             <li><span>Image 02</span><div></div></li>
             <li><span>Image 03</span><div></div></li>
@@ -153,7 +156,7 @@
         <div id="profile_desc">
             <p>
             	喜欢泡技术论坛, 逛知乎和Quora ;</br>
-				擅长加班, 没有女朋友 ;
+				我们怎么过一天，就怎么过一生 ;
             </p>
 			
 			<!--
@@ -2256,13 +2259,15 @@
                 <div id="show">
 
                     <div class="clean-check">
-
-						<input type="radio" id="s1" name="layout" value="bg_color"  />
+						
+						
+                        <input type="radio" id="s2" name="layout" value="bg_slider" checked="checked" />
+                        <label for="s2"><span></span>图片</label>
+					
+						<input type="radio" id="s1" name="layout" value="bg_color" />
                         <label for="s1"><span></span>颜色</label>
                         
-                        <input type="radio" id="s2" name="layout" value="bg_slider" checked="true"/>
-                        <label for="s2"><span></span>图片</label>
-
+					
                     </div>
 
                 </div>
