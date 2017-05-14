@@ -15,17 +15,11 @@
 
 ![](pic/resume01.jpg)
 
-
 ![](pic/resume02.jpg)
-
-
 
 ![](pic/resume03.jpg)
 
-
-
 ![](pic/resume04.jpg)
-
 
 ![](pic/resume05.jpg)
 
